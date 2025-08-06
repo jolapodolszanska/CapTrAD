@@ -1,4 +1,4 @@
-This work is part of paper **CapTrAD: A Hybrid Model for Alzheimer’s Disease Classification** as post publication in 
+This work is part of paper **CapTrAD: A Hybrid Model for Alzheimer’s Disease Classification** as post publication in **Lecture Notes in Artificial Intelligence**
 
 ## Abstract
 
