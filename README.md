@@ -10,3 +10,4 @@ This study introduced CapsFormer, a novel hybrid architecture combining ResNet-b
 
 Future research will explore several extensions. First, the model will be evaluated on additional neuroimaging modalities such as PET and rs-fMRI to assess multimodal performance. Second, scalability to larger and more heterogeneous datasets will be investigated to improve generalizability. Finally, interpretability will be enhanced through advanced explainable AI techniques beyond Grad-CAM, such as attention rollouts or concept-based methods, to support clinical applicability better.
 
+<img src="https://raw.githubusercontent.com/jolapodolszanska/CapTrAD/refs/heads/main/fig1_gradcam_masked.png">
